@@ -38,7 +38,7 @@ If you giveinvalid data (i.e. negative age, person who born before the witch too
 ###
 How to run :
  - change directory to main directory
- - open terminal and run "go run main.go"
+ - open terminal and run "java Basic"
  - input all requirement
  - view the result
 
